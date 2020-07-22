@@ -59,6 +59,7 @@ You have been allocated to a project already in progress. Some of the boilerplat
 
 
 Rxjs / Ngrx / Observables
+
 10. Implements Ngrx Entity for state creation and management (5)
 11. Implements at least one Ngrx reducer (5)
 12. Implements at least two Ngrx actions (5)
